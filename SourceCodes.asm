@@ -1,11 +1,4 @@
-TITLE SORTING ALGORITHMS LIBRARY
-COMMENT !
-	MADE BY:
-		Wahaj Javed(20K-0208)
-		Hatif Mujahid(20K-0218)
-		Agha Maarij Amir(20K-0160)
-!
-Include SAL.inc
+
 
 
 ;========================================================
